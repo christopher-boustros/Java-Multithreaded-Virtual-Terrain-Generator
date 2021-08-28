@@ -1,6 +1,6 @@
-# Java Multi-threaded Virtual Terrain Generator
-![GitHub code size](https://img.shields.io/github/languages/code-size/christopher-boustros/OS-Kernel-and-Shell-Simulator "Code size")
-![GitHub license](https://img.shields.io/github/license/christopher-boustros/OS-Kernel-and-Shell-Simulator "License")
+# Java Multi-Threaded Virtual Terrain Generator
+![GitHub code size](https://img.shields.io/github/languages/code-size/christopher-boustros/Java-Multi-Threaded-Virtual-Terrain-Generator "Code size")
+![GitHub license](https://img.shields.io/github/license/christopher-boustros/Java-Multi-Threaded-Virtual-Terrain-Generator "License")
 
 A command-line program written in C that simulates an operating system kernel and shell along with paging and CPU scheduling. This program was made as part of a course assignment for ECSE 427 Operating Systems in winter 2020 at McGill University.
 
